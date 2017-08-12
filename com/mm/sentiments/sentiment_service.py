@@ -1,3 +1,8 @@
+'''
+Created on Jun 2, 2017
+
+@author: Mahesh.M
+'''
 from flask import Flask, request, Blueprint
 import json
 from sentiment_generator import SentimentGenerator

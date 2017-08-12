@@ -1,3 +1,8 @@
+'''
+Created on Jun 2, 2017
+
+@author: Mahesh.M
+'''
 from flask import Flask, request
 from sentiment_service import sentiment_service_api
 from sentiment_file_service import sentiment_file_api

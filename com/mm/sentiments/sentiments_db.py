@@ -1,3 +1,8 @@
+'''
+Created on Jun 2, 2017
+
+@author: Mahesh.M
+'''
 import json
 from pymongo import MongoClient
 from datetime import datetime
